@@ -17,7 +17,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./mdimg/histogram.jpeg "Histogram"
-[image4]: ./mdimg/signs.jpg "Traffic Sign 1"
+[image4]: ./mdimg/signs.JPG "Traffic Sign 1"
 [image5]: ./mdimg/img2.jpg "Traffic Sign 2"
 [image6]: ./mdimg/img3.jpg "Traffic Sign 3"
 [image7]: ./mdimg/img4.jpg "Traffic Sign 4"
