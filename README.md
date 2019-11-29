@@ -16,12 +16,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./mdimg/histogram.jpeg "Histogram"
+[image1]: ./mdimg/histogram.JPG "Histogram"
 [image4]: ./mdimg/signs.JPG "Traffic Sign 1"
-[image5]: ./mdimg/img2.jpg "Traffic Sign 2"
-[image6]: ./mdimg/img3.jpg "Traffic Sign 3"
-[image7]: ./mdimg/img4.jpg "Traffic Sign 4"
-[image8]: ./mdimg/img5.jpg "Traffic Sign 5"
 
 
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
