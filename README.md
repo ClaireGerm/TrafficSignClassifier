@@ -98,8 +98,7 @@ An iterative approach was chosen:
 
 Here are five German traffic signs that I extracted from Google street view:
 
-![alt text][image4] ![alt text][image5] ![alt text][image6] 
-![alt text][image7] ![alt text][image8]
+![alt text][image4]
 
 These pictures won't be too hard to classify due to none of them being dark or unclear. The speed limit is probably the hardest one because of the number 30 looking similar to 80 or 50.
 
